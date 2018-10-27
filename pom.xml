@@ -78,11 +78,11 @@
     </snapshotRepository>
   </distributionManagement>
 -->
-  <distributionManagement>
+<distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>BLRKEC391437D-snapshots</name>
-        <url>http://localhost:8081/artifactory/libs-snapshot</url>
+        <name>artifactory-snapshots</name>
+        <url>https://riyazneerav.jfrog.io/riyazneerav/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
   </project>

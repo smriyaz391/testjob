@@ -81,8 +81,8 @@
 <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>artifactory-snapshots</name>
-        <url>https://riyazneerav.jfrog.io/riyazneerav/libs-snapshot-local</url>
+        <name>DESKTOP-DJAAGI2-snapshots</name>
+        <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
-</distributionManagement>
-  </project>
+</distributionManagement>  
+</project>
